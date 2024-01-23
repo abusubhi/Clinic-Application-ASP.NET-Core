@@ -1,0 +1,14 @@
+C:\Users\moh\source\repos\ClinicApp\Clinic.Data\bin\Debug\net6.0\Clinic.Data.deps.json
+C:\Users\moh\source\repos\ClinicApp\Clinic.Data\bin\Debug\net6.0\Clinic.Data.runtimeconfig.json
+C:\Users\moh\source\repos\ClinicApp\Clinic.Data\bin\Debug\net6.0\Clinic.Data.dll
+C:\Users\moh\source\repos\ClinicApp\Clinic.Data\bin\Debug\net6.0\Clinic.Data.pdb
+C:\Users\moh\source\repos\ClinicApp\Clinic.Data\obj\Debug\net6.0\Clinic.Data.csproj.AssemblyReference.cache
+C:\Users\moh\source\repos\ClinicApp\Clinic.Data\obj\Debug\net6.0\Clinic.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moh\source\repos\ClinicApp\Clinic.Data\obj\Debug\net6.0\Clinic.Data.AssemblyInfoInputs.cache
+C:\Users\moh\source\repos\ClinicApp\Clinic.Data\obj\Debug\net6.0\Clinic.Data.AssemblyInfo.cs
+C:\Users\moh\source\repos\ClinicApp\Clinic.Data\obj\Debug\net6.0\Clinic.Data.csproj.CoreCompileInputs.cache
+C:\Users\moh\source\repos\ClinicApp\Clinic.Data\obj\Debug\net6.0\Clinic.Data.dll
+C:\Users\moh\source\repos\ClinicApp\Clinic.Data\obj\Debug\net6.0\refint\Clinic.Data.dll
+C:\Users\moh\source\repos\ClinicApp\Clinic.Data\obj\Debug\net6.0\Clinic.Data.pdb
+C:\Users\moh\source\repos\ClinicApp\Clinic.Data\obj\Debug\net6.0\Clinic.Data.genruntimeconfig.cache
+C:\Users\moh\source\repos\ClinicApp\Clinic.Data\obj\Debug\net6.0\ref\Clinic.Data.dll

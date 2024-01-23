@@ -1,0 +1,17 @@
+C:\Users\moh\source\repos\ClinicApp\Clinic.Infrastructier\bin\Debug\net6.0\Clinic.Infrastructire.deps.json
+C:\Users\moh\source\repos\ClinicApp\Clinic.Infrastructier\bin\Debug\net6.0\Clinic.Infrastructire.runtimeconfig.json
+C:\Users\moh\source\repos\ClinicApp\Clinic.Infrastructier\bin\Debug\net6.0\Clinic.Infrastructire.dll
+C:\Users\moh\source\repos\ClinicApp\Clinic.Infrastructier\bin\Debug\net6.0\Clinic.Infrastructire.pdb
+C:\Users\moh\source\repos\ClinicApp\Clinic.Infrastructier\bin\Debug\net6.0\Clinic.Data.dll
+C:\Users\moh\source\repos\ClinicApp\Clinic.Infrastructier\bin\Debug\net6.0\Clinic.Data.pdb
+C:\Users\moh\source\repos\ClinicApp\Clinic.Infrastructier\obj\Debug\net6.0\Clinic.Infrastructire.csproj.AssemblyReference.cache
+C:\Users\moh\source\repos\ClinicApp\Clinic.Infrastructier\obj\Debug\net6.0\Clinic.Infrastructire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moh\source\repos\ClinicApp\Clinic.Infrastructier\obj\Debug\net6.0\Clinic.Infrastructire.AssemblyInfoInputs.cache
+C:\Users\moh\source\repos\ClinicApp\Clinic.Infrastructier\obj\Debug\net6.0\Clinic.Infrastructire.AssemblyInfo.cs
+C:\Users\moh\source\repos\ClinicApp\Clinic.Infrastructier\obj\Debug\net6.0\Clinic.Infrastructire.csproj.CoreCompileInputs.cache
+C:\Users\moh\source\repos\ClinicApp\Clinic.Infrastructier\obj\Debug\net6.0\Clinic.Infrastructire.csproj.CopyComplete
+C:\Users\moh\source\repos\ClinicApp\Clinic.Infrastructier\obj\Debug\net6.0\Clinic.Infrastructire.dll
+C:\Users\moh\source\repos\ClinicApp\Clinic.Infrastructier\obj\Debug\net6.0\refint\Clinic.Infrastructire.dll
+C:\Users\moh\source\repos\ClinicApp\Clinic.Infrastructier\obj\Debug\net6.0\Clinic.Infrastructire.pdb
+C:\Users\moh\source\repos\ClinicApp\Clinic.Infrastructier\obj\Debug\net6.0\Clinic.Infrastructire.genruntimeconfig.cache
+C:\Users\moh\source\repos\ClinicApp\Clinic.Infrastructier\obj\Debug\net6.0\ref\Clinic.Infrastructire.dll
